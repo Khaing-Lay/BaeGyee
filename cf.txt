@@ -1,4 +1,4 @@
-avval.ir:8443#CF
+avval.ir:80#CF
 alejandracaiccedo.com:443#CF
 api.ip.sb:443#CF
 c.xf.free.hr:2087#CF
